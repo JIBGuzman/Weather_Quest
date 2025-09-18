@@ -53,4 +53,4 @@ The Weather Quest is an advanced IoT application integrating the TM4C123 LaunchP
 - Robby Rimal
 
 ## Additional Resources
-- Video Demo: [https://youtu.be/Rxcsxg-Bn4s?si=h8XlzSWqdbA2bmJ3]
+- Video Demo: [Weather Forecast](https://youtu.be/Rxcsxg-Bn4s?si=h8XlzSWqdbA2bmJ3)

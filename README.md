@@ -1,7 +1,7 @@
-# Embedded Weather Quester Project
+# Weather Quest
 
 ## Overview
-The Embedded Weather Quester is an advanced IoT application integrating the TM4C123 LaunchPad with a CC3100 Booster Pack and ST7735 Color LCD. The system fetches weather information from an online API and displays it with animations, multiple fonts, and colors. It also provides a UART PC serial terminal interface for interactive queries.
+The Weather Quest is an advanced IoT application integrating the TM4C123 LaunchPad with a CC3100 Booster Pack and ST7735 Color LCD. The system fetches weather information from an online API and displays it with animations, multiple fonts, and colors. It also provides a UART PC serial terminal interface for interactive queries.
 
 ## Features
 - Display weather information for multiple cities (New York, London, Seattle).
@@ -51,3 +51,6 @@ The Embedded Weather Quester is an advanced IoT application integrating the TM4C
 - Joseph Guzman
 - Afzal Hakim
 - Robby Rimal
+
+## Additional Resources
+- Video Demo: [https://youtu.be/Rxcsxg-Bn4s?si=h8XlzSWqdbA2bmJ3]
